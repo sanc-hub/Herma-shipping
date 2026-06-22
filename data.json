@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "username": "herma",
+      "password_note": "ABS2026 authenticated by fixed backend login",
+      "full_name": "Herma",
+      "role": "admin",
+      "created_at": 1781330044666
+    },
+    {
+      "username": "herma_shipping",
+      "password_note": "ABS2026 authenticated by fixed backend login",
+      "full_name": "Herma Shipping",
+      "role": "user",
+      "created_at": 1781330044667
+    }
+  ],
+  "vessels": [],
+  "folders": [],
+  "files": []
+}
